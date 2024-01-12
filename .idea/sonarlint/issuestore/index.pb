@@ -9,3 +9,7 @@ T
 $src/main/java/org/example/Task2.java,a/b/abd68038cb2a379b5b6ed68d3592d6024b89f5e0
 U
 %src/main/java/org/example/Person.java,d/7/d7cef7fca7b9350830c521bba16c082063341c26
+V
+&src/main/java/org/example/Task2_1.java,4/3/431c5a9a9dcf1fe294601947d075015e6ed11704
+V
+&src/main/java/org/example/Task2_2.java,c/0/c020f416e14c978a2b599ee4959eec870b153d92

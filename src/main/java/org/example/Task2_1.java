@@ -1,6 +1,6 @@
 package org.example;
 import java.util.Scanner;
-import java.io.*;
+
 public class Task2_1 {
 
 
