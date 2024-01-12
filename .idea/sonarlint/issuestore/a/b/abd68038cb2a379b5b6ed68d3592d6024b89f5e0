@@ -1,5 +1,7 @@
 
-^
-java:S1854"<Remove this useless assignment to local variable "sentence".(Ô¢—øøÿÿÿÿ8ë¼¶ôÏ1
-O
-java:S1481"-Remove this unused "sentence" local variable.(Ô¢—øøÿÿÿÿ8ò¼¶ôÏ1
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(®’íóıÿÿÿÿ8éÍõÏ1
+G	java:S106	"+Replace this use of System.out by a logger.(ıÿ°Ğ8õÍõÏ1
+F	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8÷ÍõÏ1
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8øÍõÏ1
