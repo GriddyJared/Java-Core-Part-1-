@@ -13,3 +13,7 @@ V
 &src/main/java/org/example/Task2_1.java,4/3/431c5a9a9dcf1fe294601947d075015e6ed11704
 V
 &src/main/java/org/example/Task2_2.java,c/0/c020f416e14c978a2b599ee4959eec870b153d92
+V
+&src/main/java/org/example/Task2_3.java,b/6/b67eea39d2d2abfa3f547bedffe5bf8be0c6eb69
+W
+'src/main/java/org/example/practice.java,3/a/3a765f1ebe3fea45d925abfe2eed2846dcdf5ab8

@@ -11,7 +11,7 @@ public class Task2_2 {
         char[] stringToReverse= str.toCharArray();
 
         for (int num= str.length()-1; num>=0;num--){
-            rev+= stringToReverse[num];
+            rev += stringToReverse[num];
         }
         System.out.println(rev);
     }
