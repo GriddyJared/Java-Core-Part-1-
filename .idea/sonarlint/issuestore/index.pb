@@ -17,3 +17,7 @@ V
 &src/main/java/org/example/Task2_3.java,b/6/b67eea39d2d2abfa3f547bedffe5bf8be0c6eb69
 W
 'src/main/java/org/example/practice.java,3/a/3a765f1ebe3fea45d925abfe2eed2846dcdf5ab8
+T
+$src/main/java/org/example/Task3.java,6/d/6d56eae149b0a26860bd17afd650c478759e132e
+\
+,src/main/java/org/example/MakingChanges.java,2/b/2bddabadba294ca36f8cd1d465df0e1d6af1eceb
