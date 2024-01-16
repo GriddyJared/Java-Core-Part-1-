@@ -13,7 +13,7 @@ public class Task2_3 {
 
         for(char c:str.toCharArray())
         {
-            //pushing all the characters
+
             stack.push(c);
         }
 
@@ -21,7 +21,7 @@ public class Task2_3 {
 
         while(!stack.isEmpty())
         {
-            //popping all the chars and appending to temp
+            
             temp+=stack.pop();
         }
 

@@ -1,0 +1,9 @@
+
+8
+java:S1643"Use a StringBuilder instead.(á²¹+8×éÔøÏ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğô¸8ÚéÔøÏ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í´€Òüÿÿÿÿ8´™°•Ñ1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8âéÔøÏ1
+G	java:S106"+Replace this use of System.out by a logger.(ıÿ°Ğ8ìéÔøÏ1
+L	java:S106"+Replace this use of System.out by a logger.(şÉ„¾ûÿÿÿÿ8ğéÔøÏ1

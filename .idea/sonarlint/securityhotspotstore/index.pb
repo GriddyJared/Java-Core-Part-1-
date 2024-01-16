@@ -43,3 +43,7 @@ Y
 )src/main/java/org/example/Task4/main.java,a/0/a041f755d98a660d207352be63186c6c50d3961d
 Z
 *src/main/java/org/example/Task4/Task4.java,c/6/c606fe94d830416c3e756f8ba5004eb958af18d3
+\
+,src/main/java/org/example/Task2/Task2_2.java,d/c/dcb08678b25d76320006824991a99f933c0d8c36
+\
+,src/main/java/org/example/Task2/Task2_3.java,6/8/68c86edc728cc3cac2ea12f270790e0d9831c654
